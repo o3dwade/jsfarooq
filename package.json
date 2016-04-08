@@ -27,5 +27,15 @@
     "passport-http": "*",
     "passport-local": "*",
     "serve-favicon": "~2.3.0"
-  }
+  },
+  "repositories":{
+    "type":"git",
+    "url": "https://github.com/o3dwade/jsfarooq.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
 }
